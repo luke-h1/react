@@ -30,7 +30,7 @@
   "dependencies": {
     "front-matter": "^4.0.2",
     "markdown-toc": "^1.2.0",
-    "yargs": "^17.5.1"
+    "yargs": "^17.7.1"
   },
   "devDependencies": {
     "husky": "^7.0.0",
